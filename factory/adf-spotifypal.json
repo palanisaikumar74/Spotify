@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotifypal",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "156ee432-b2f5-421d-9147-767b52a3620b",
+		"tenantId": "00a803a7-f14b-44aa-8daa-d0a237123cd7"
+	}
+}
