@@ -2,7 +2,7 @@
 	"name": "Parquet_Dynamic",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "LS_DataLake",
+			"referenceName": "AzureDataLakeStorage1",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
