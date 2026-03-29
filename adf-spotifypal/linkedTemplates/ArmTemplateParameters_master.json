@@ -5,23 +5,23 @@
 		"factoryName": {
 			"value": "adf-spotifypal"
 		},
-		"LS_AzureSQL_password": {
+		"AzureDataLakeStorage1_accountKey": {
 			"value": ""
 		},
-		"LS_DataLake_accountKey": {
+		"AzureSqlDatabase1_password": {
 			"value": ""
 		},
-		"LS_AzureSQL_properties_typeProperties_server": {
-			"value": "spotifypalserver.database.windows.net"
-		},
-		"LS_AzureSQL_properties_typeProperties_database": {
-			"value": "DB-Vinya29"
-		},
-		"LS_AzureSQL_properties_typeProperties_userName": {
-			"value": "adminpal"
-		},
-		"LS_DataLake_properties_typeProperties_url": {
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://spotifystorageaccpal.dfs.core.windows.net/"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "palsever.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "DBVinya"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "adminpal"
 		},
 		"containerUri": {
 			"value": ""
