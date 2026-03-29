@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-spotifypal"
+		},
+		"LS_AzureSQL_password": {
+			"value": ""
+		},
+		"LS_DataLake_accountKey": {
+			"value": ""
+		},
+		"LS_AzureSQL_properties_typeProperties_server": {
+			"value": "spotifypalserver.database.windows.net"
+		},
+		"LS_AzureSQL_properties_typeProperties_database": {
+			"value": "DB-Vinya29"
+		},
+		"LS_AzureSQL_properties_typeProperties_userName": {
+			"value": "adminpal"
+		},
+		"LS_DataLake_properties_typeProperties_url": {
+			"value": "https://spotifystorageaccpal.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
